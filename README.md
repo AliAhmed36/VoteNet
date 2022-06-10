@@ -9,9 +9,8 @@ Also we considered different structure in the network.
 
 Installation
 ````
-```
+
 rehger
 
-```
 ````
 Contact: Ulzhalgas Rakhman urakhman@kaist.ac.kr and Ali Ahmed ali.ahmed@kaist.ac.kr
