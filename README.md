@@ -10,7 +10,25 @@ Also we considered different structure in the network.
 Installation
 ````
 
-rehger
+Tensorflow 1.2, Keras 2.0, PyTorch
 
 ````
+
+Please install Python dependencies same as original Votenet by pip
+````
+opencv-python
+plyfile
+'trimesh>=2.35.39,<2.35.40'
+'networkx>=2.2,<2.3'
+matplotlib
+
+````
+
+You can check the results by running pre-trained model
+
+````
+python demo.py
+
+````
+
 Contact: Ulzhalgas Rakhman urakhman@kaist.ac.kr and Ali Ahmed ali.ahmed@kaist.ac.kr
