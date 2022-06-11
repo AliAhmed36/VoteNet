@@ -17,8 +17,8 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(BASE_DIR)
 sys.path.append(BASE_DIR)
 from backbone_module import Pointnet2Backbone
-from models.voting_ours import VotingModule
-from models.proposal_ours import ProposalModule
+from models.voting_module import VotingModule
+from models.proposal_module import ProposalModule
 from dump_helper import dump_results
 from loss_helper import get_loss
 
